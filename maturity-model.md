@@ -1,31 +1,8 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.532 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sun Nov 22 2020 13:32:25 GMT-0800 (PST)
-* Source doc: 2020-11-22 CNCF Landscape Proposal
-* Tables are currently converted to HTML tables.
------>
-
-
-
 # CNCF Landscape, Trail Map and Maturity Model Proposal
 
 The Cloud Native Landscape and the Trail Map are two useful tools for the CNCF and the wider Cloud Native community.  One plots a way forward, and the other brings the wider ecosystem together within broad categories.  The use of a maturity model will be a useful aid allowing organisations and individuals to build up their core competencies in Cloud Native, and drive up their maturity.
+
+The two main documents under discussion are the Cloud Native Landscape, located at https://landscape.cncf.io/, and the the Trail Map, at https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.pdf
 
 There are at least two different users of the Landscape and Trail Map.  The first use belongs to the persona of an Architect or an end-user organisation wishing to build up skills, and experience in Cloud Native.  This can be described as _maturity_.  This use of the Trail Map and Landscape can be considered the _strategic_ use-case for the two tools.
 
